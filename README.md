@@ -33,4 +33,4 @@ Python · pandas · NumPy · SQL · PostgreSQL · Jupyter · Excel · Power BI �
 
 Busco oportunidades iniciais em análise de dados, relatórios e indicadores de qualidade.
 
-[**Meu LinkedIn**](https://www.linkedin.com/in/daniel-junior-248358236/)
+[**Meu LinkedIn**](https://www.linkedin.com/in/daniel-correia-lemos-j%C3%BAnior-248358236/)
