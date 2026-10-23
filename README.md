@@ -2,7 +2,7 @@
 
 **Estudos em análise de dados · Python, SQL e pandas · Experiência em qualidade têxtil**
 
-Sou de Blumenau (SC) e atuo na indústria têxtil desde 2023, atualmente como Assistente de Laboratório. Minha experiência inclui inspeção de matéria-prima, gramatura e torção, análise de tonalidade e registro de resultados de qualidade.
+Sou de Blumenau (SC) e atuo na indústria têxtil desde 2023, atualmente como Assistente de Laboratório. Minha experiência inclui inspeção de matéria-prima e registro de resultados de qualidade.
 
 Estou construindo minha transição para a área de dados por meio de estudos e projetos que conectam esse contexto industrial à organização, análise e visualização de informações.
 
